@@ -1,6 +1,6 @@
 import React from 'react'
 import { Element } from 'react-scroll'
-import TopContent from '../Topcontent/TopContent'
+import TopContent from '../TopContent/TopContent.jsx'
 import "./TopContainer.css"
 
 const TopContainer = () => {

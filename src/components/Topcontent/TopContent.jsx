@@ -1,6 +1,5 @@
 import React from 'react'
 import "./TopContent.css"
-import { Link } from "react-scroll";
 
 const TopContent = () => {
   return (
